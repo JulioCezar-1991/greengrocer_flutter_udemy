@@ -47,7 +47,7 @@ ItemModel mango = ItemModel(
 
 ItemModel papaya = ItemModel(
   imgUrl: 'assets/fruits/papaya.png',
-  itemName: 'Mamão papaya',
+  itemName: 'Mamão Papaya',
   price: 8,
   unit: 'kg',
   description:
